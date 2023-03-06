@@ -1,3 +1,5 @@
+#include <stddef.h>
+
 /**
  * _strchr - a function ...
  * @s: the chaine
