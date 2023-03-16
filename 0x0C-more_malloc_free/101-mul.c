@@ -36,3 +36,4 @@ int main(int argc, char *argv[])
 	printf("%lu\n", mul);
 	return (0);
 }
+
